@@ -1,0 +1,9 @@
+,Class A,Class B,Class C,Class D,Class E,Class F,Class G,Class H
+Predicted Class A,100,6.06,0,0,0,10,0,3.45
+Predicted Class B,0,69.7,0,0,0,10,0,3.45
+Predicted Class C,0,0,97.2,0,0,0,0,0
+Predicted Class D,0,12.1,0,89.3,0,0,0,0
+Predicted Class E,0,3.03,0,0,100,10,0,0
+Predicted Class F,0,0,0,0,0,70,0,0
+Predicted Class G,0,0,2.78,0,0,0,100,0
+Predicted Class H,0,9.09,0,10.7,0,0,0,93.1
